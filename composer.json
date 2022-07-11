@@ -1,6 +1,5 @@
 {
-    "name": "imsglobal/lti",
-    "version" : "3.0.2",
+    "name": "oat-sa/imsglobal-lti",
     "description": "LTI Tool Provider Library",
     "keywords": ["lti"],
     "homepage": "https://www.imsglobal.org/lti",
@@ -8,12 +7,12 @@
     "license": "Apache-2.0",
     "authors":[
         {
-            "name": "Stephen Vickers",
-            "email": "svickers@imsglobal.org"
+            "homepage": "https://www.taotesting.com",
+            "name": "Open Assessment Technologies S.A."
         }
     ],
     "require":{
-        "php": ">=5.6.0"
+        "php": ">=7.4,<=8.1"
     },
     "autoload":{
         "psr-4": {
