@@ -1,5 +1,5 @@
 {
-    "name": "oat-sa/imsglobal-lti",
+    "name": "openthinklabs/imsglobal-lti",
     "description": "LTI Tool Provider Library",
     "keywords": ["lti"],
     "homepage": "https://www.imsglobal.org/lti",
